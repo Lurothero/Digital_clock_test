@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
 
-
+//Testing
 
     QCoreApplication::setApplicationName("Rene Robert Allen and Luigi Acuna Digital Clock");
     QCoreApplication::setOrganizationName("CMPS2212 GUI Programming");
